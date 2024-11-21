@@ -1,4 +1,5 @@
 weather = "sunny"
+
 if weather == "sunny":
  print("Wear sunglasses!")
 else:
@@ -18,8 +19,20 @@ MAX_LIMIT = 1000
 melon_price = 10
 milk_price = 3
 chips_price = 2
+
 total_cost = melon_price + milk_price + chips_price
-print("The total cost is: $") + str(total_cost)
+print("The total cost is $17")
+
+
+
+initial_amount = 10000
+interest_rate = 700 
+
+initial_amount + initial_amount * interest_rate
+end_of_year = 10000 + 10000 * 700
+print("10700")
+
+
 
 
  
